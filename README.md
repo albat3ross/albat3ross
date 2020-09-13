@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on temporal action localization/video representation.
-🌱 I’m currently study at McGill University as a fourth-year software engineering undergrad.
-📫 How to reach me: han.zhou@mail.mcgill.ca
+🔭 I’m currently working on temporal action localization/video representation.  
+🌱 I’m currently study at McGill University as a fourth-year software engineering undergrad.  
+📫 How to reach me: han.zhou@mail.mcgill.ca  
