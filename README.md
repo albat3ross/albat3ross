@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 🔭 I’m currently working on temporal action localization/video representation.  
 🌱 I’m currently study at McGill University as a fourth-year software engineering undergrad.  
 📫 How to reach me: han.zhou@mail.mcgill.ca || zhouhan1024@hotmail.com
+📫 (Link to my LinkedIn Profile)[https://www.linkedin.com/in/han-zhou-678954160/]
