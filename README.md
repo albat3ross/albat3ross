@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently looking for full time job in software development.  
-🌱 I’m currently study at McGill University as a U4 software engineering undergrad.  
-📫 How to reach me: han.zhou@mail.mcgill.ca || zhouhan1024@hotmail.com  
+📫 How to reach me: zhouhan1024@hotmail.com  
 📫 *[Link to my LinkedIn Profile](https://www.linkedin.com/in/han-zhou-678954160/)*  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Albat3ross&show_icons=true)  ](https://github.com/Albat3ross/)
